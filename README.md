@@ -1,6 +1,9 @@
 # COMP229_Group_Project
 COMP229 F2022 Group Project
 
+lets start working
+
+
 # Installing
 ## Installation - Node
 1. Navigate your CLI to where you want to clone the repository
